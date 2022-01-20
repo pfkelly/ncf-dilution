@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NfcDilutionApplication {
+public class NcfDilutionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NfcDilutionApplication.class, args);
+		SpringApplication.run(NcfDilutionApplication.class, args);
 	}
 
 }
